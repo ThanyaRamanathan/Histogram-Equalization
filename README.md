@@ -1,2 +1,22 @@
-# Histogram-Equalization
-This project focuses on the implementation and evaluation of Histogram Equalization (HE) as a technique for enhancing image contrast. By developing algorithms for HE in popular programming languages and applying them to a diverse set of images, the project aims to showcase the versatility of this method. Visualizing original and equalized histograms, alongside quantitative metrics such as Mean Squared Error (MSE) and Peak Signal-to-Noise Ratio (PSNR), will provide a comprehensive understanding of the impact of histogram equalization on image quality. The project further investigates adaptability across different image types, ensuring a practical exploration of contrast enhancement techniques.
+# Histogram Equalization
+
+This project demonstrates the use of Histogram Equalization to enhance the contrast of images using both RGB and HSV channels. The repository provides scripts for processing, visualizing, and comparing the effects of histogram equalization on sample images.
+
+## Features
+
+- **Histogram Equalization (RGB)**: Adjusts pixel intensity values in each channel (Red, Green, Blue) to improve image contrast.
+- **Histogram Equalization (HSV)**: Equalizes the Value channel while preserving Hue and Saturation, minimizing color distortion.
+- **Visualizations**: Displays histograms before and after equalization for both RGB and HSV channels.
+- **Adaptive Equalization**: Implements enhancements to address limitations of standard histogram equalization.
+
+## Prerequisites
+
+- Python 3.8 or higher
+- Libraries: `numpy`, `matplotlib`, `opencv-python`
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   cd <repository_directory>
