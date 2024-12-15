@@ -35,7 +35,6 @@ The outputs include:
 
 ## Contributing
 Contributions are welcome! To contribute:
-
-## Fork the repository.
-Create a branch for your feature/bugfix.
-Submit a pull request.
+1. Fork the repository.
+2. Create a branch for your feature/bugfix.
+3. Submit a pull request.
