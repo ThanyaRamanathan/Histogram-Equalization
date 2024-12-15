@@ -25,13 +25,13 @@ This project demonstrates the use of Histogram Equalization to enhance the contr
 
 ## Outputs
 The outputs include:
--- Enhanced images after histogram equalization.
--- Side-by-side comparisons of original and processed images.
--- Histograms for visual representation of pixel intensity distributions.
+- Enhanced images after histogram equalization.
+- Side-by-side comparisons of original and processed images.
+- Histograms for visual representation of pixel intensity distributions.
 
 ## Improvements
--- Adaptive Equalization: Dynamically adjusts contrast for bright images.
--- Brightness Preprocessing: Modifies brightness levels before applying equalization.
+- Adaptive Equalization: Dynamically adjusts contrast for bright images.
+- Brightness Preprocessing: Modifies brightness levels before applying equalization.
 
 ## Contributing
 Contributions are welcome! To contribute:
